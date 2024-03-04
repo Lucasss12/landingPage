@@ -5,3 +5,11 @@
 body {
   background-color: #1d1f23;
 }
+
+.cardsStack {
+  background: linear-gradient(to bottom right, #121314, #3f3f3f, #7f7f7f);
+}
+
+.cardsBento {
+  background: linear-gradient(to bottom right, #48494b, #1d1f23);
+}
